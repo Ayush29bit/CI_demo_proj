@@ -30,8 +30,5 @@ CI_demo_proj/
 -GitHub Actions – as CI engine (via .github/workflows).
 -Git / GitHub – version control and collaboration.
 
----
-## Contact & Feedback
 
-If you have ideas for extending this project (maybe adding code coverage reporting, linting, deploying a demo app, or integrating ML workflows), let me know! Always up for improvements.
 
